@@ -53,7 +53,7 @@ const App: React.FC = () => {
 useEffect(() => {
   musicRef2.current = new Audio('/audio/music.mp3'); // public/audio/music.mp3
   musicRef2.current.loop = true;
-  correctSfxRef.current = new Audio('https://www.fesliyanstudios.com/play-mp3/418');
+ correctSfxRef.current = new Audio('https://www.fesliyanstudios.com/play-mp3/418');
   incorrectSfxRef.current = new Audio('https://www.fesliyanstudios.com/play-mp3/10');
   rockCollectSfxRef.current = new Audio('https://www.fesliyanstudios.com/play-mp3/623');
   rockCollectSfxRef.current.volume = 0.7;

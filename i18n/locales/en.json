@@ -1,0 +1,87 @@
+{
+    "startScreen": {
+        "title": "Space Adventures",
+        "button": "START ADVENTURE"
+    },
+    "splash": {
+        "title": "Space Adventures",
+        "crawl": "As countless stars twinkled silently in the sky, the planets revolved in peace. But in the depths of the universe, a dark force was slowly awakening... Brave heroes, born from the imagination of children, must unite to defend the light against this darkness! Their journey to protect the planets, the stars, and friendship will determine the fate of the entire galaxy. WILL LIGHT OR DARKNESS PREVAIL? The answer lies in the brave hearts that look to the sky...",
+        "skip": "Skip"
+    },
+    "levels": {
+        "level": "Level",
+        "level1": { "title": "Our First Neighbors" },
+        "level2": { "title": "The Search for Life" },
+        "level3": { "title": "The Gas Giants" },
+        "level4": { "title": "The Ice Worlds" },
+        "level5": { "title": "The System's Edge and Beyond" }
+    },
+    "planetTour": {
+        "startGame": "Start Game!"
+    },
+    "planetDetail": {
+        "placeholderTitle": "Details of Selected Planet",
+        "placeholderText": "Select a planet from above to see its detailed information and photo."
+    },
+    "matchingGame": {
+        "title": "Planet Matching Game",
+        "instructions": "Level {{level}} - Click the cards to match the planet names with their correct features!",
+        "levelComplete": "Congratulations! Level {{level}} complete! 🌟"
+    },
+    "constellation": {
+        "intro": {
+            "title": "You're Doing Great!",
+            "text": "You've learned the planets! Now it's time for one of the most famous constellations in the sky: Ursa Major! This constellation contains the famous 'Big Dipper,' which helps us find the North Star. Are you ready to connect its stars?",
+            "imageAlt": "Ursa Major Constellation",
+            "button": "Go to Puzzle"
+        },
+        "puzzle": {
+            "title": "Ursa Major Constellation Puzzle",
+            "instructions": "Complete the constellation by dragging the stars to their correct places!",
+            "success": "Congratulations! You have completed the Ursa Major constellation!",
+            "draggableStars": "Draggable Stars",
+            "allStarsPlaced": "All stars have been placed!",
+            "starInfo": "Star Information",
+            "reset": "Reset Puzzle"
+        }
+    },
+    "asteroidDodge": {
+        "title": "Asteroid Field",
+        "instructions": "Dodge the asteroids using the arrow keys!",
+        "gameOver": "Game Over!",
+        "score": "Score: {{score}}",
+        "playAgain": "Play Again",
+        "mainMenu": "Main Menu"
+    },
+    "endScreen": {
+        "title": "✨ CONGRATULATIONS HERO! ✨",
+        "message": "You have completed all the games! Wait for updates for more.",
+        "button": "Play Again"
+    },
+    "speaker": {
+        "mute": "Mute",
+        "unmute": "Unmute"
+    },
+    "planets": {
+        "sun": { "name": "Sun", "feature": "Hot Star", "info": "The giant star at the center of the Solar System. It is the source of life for our Earth." },
+        "mercury": { "name": "Mercury", "feature": "The Fastest Planet", "info": "The closest planet to the Sun. It rotates very fast and has many craters on its surface." },
+        "venus": { "name": "Venus", "feature": "The Hottest Planet", "info": "Its atmosphere is toxic. Although not the closest to the Sun, it is the hottest planet due to the greenhouse effect." },
+        "earth": { "name": "Earth", "feature": "The Blue Planet", "info": "The only known planet with life on it. Most of its surface is covered with water." },
+        "mars": { "name": "Mars", "feature": "The Red Planet", "info": "It is red due to the iron oxide on its surface. It's where humans plan to go in the future." },
+        "jupiter": { "name": "Jupiter", "feature": "The Largest Planet", "info": "The giant of the Solar System. It has a giant storm on it called the Great Red Spot." },
+        "saturn": { "name": "Saturn", "feature": "The Ringed Planet", "info": "Known for its magnificent rings made of ice and rock particles." },
+        "uranus": { "name": "Uranus", "feature": "The Tilted Planet", "info": "It rotates on a tilted axis, so it appears to be lying on its side. It is an ice giant." },
+        "neptune": { "name": "Neptune", "feature": "The Windiest Planet", "info": "The farthest planet from the Sun. The winds on it can reach speeds of 2000 km per hour." },
+        "pluto": { "name": "Pluto", "feature": "The Dwarf Planet", "info": "It was formerly known as the 9th planet. It is now classified as a Dwarf Planet." },
+        "kepler": { "name": "Kepler-186f", "feature": "The Exoplanet", "info": "An Earth-sized distant planet located in the habitable zone of its star." }
+    },
+    "stars": {
+        "alkaid": { "name": "Alkaid", "info": "The star at the very tip of the Big Dipper's handle." },
+        "mizar": { "name": "Mizar", "info": "The middle star of the handle. It has a companion named Alcor, which can be seen by those with good eyesight." },
+        "alioth": { "name": "Alioth", "info": "The brightest star in the handle and the one closest to the bowl." },
+        "megrez": { "name": "Megrez", "info": "The faintest star, located where the handle joins the bowl." },
+        "phecda": { "name": "Phecda", "info": "One of the stars forming the bottom of the bowl." },
+        "dubhe": { "name": "Dubhe", "info": "The 'pointer' star at the top of the bowl. It helps in finding the North Star." },
+        "merak": { "name": "Merak", "info": "The other 'pointer' star, along with Dubhe, that points to the North Star." }
+    }
+}

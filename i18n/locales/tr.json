@@ -1,0 +1,87 @@
+{
+    "startScreen": {
+        "title": "Uzay Maceraları",
+        "button": "MACERAYA BAŞLA"
+    },
+    "splash": {
+        "title": "Uzay Maceraları",
+        "crawl": "Gökyüzünde parlayan sayısız yıldız, sessizce birbirine göz kırparken, gezegenler barış içinde dönüyordu. Ama evrenin derinliklerinde, karanlık bir güç yavaş yavaş uyanıyordu... Cesur kahramanlar, çocukların hayal gücünden doğarak bu karanlığa karşı ışığı savunmak için bir araya gelmek zorunda! Gezegenleri, yıldızları ve dostluğu korumak için çıktıkları bu yolculuk, tüm galaksinin kaderini belirleyecek. IŞIK MI, YOKSA KARANLIK MI KAZANACAK? Cevap, gökyüzüne bakan cesur kalplerde saklı...",
+        "skip": "Atla"
+    },
+    "levels": {
+        "level": "Bölüm",
+        "level1": { "title": "İlk Komşularımız" },
+        "level2": { "title": "Yaşam Arayışı" },
+        "level3": { "title": "Gaz Devleri" },
+        "level4": { "title": "Buz Dünyaları" },
+        "level5": { "title": "Sistemin Sınırları ve Ötesi" }
+    },
+    "planetTour": {
+        "startGame": "Oyuna Başla!"
+    },
+    "planetDetail": {
+        "placeholderTitle": "Seçilen Gezegenin Detayları",
+        "placeholderText": "Yukarıdan bir gezegen seçerek detaylı bilgi ve fotoğrafını görebilirsin."
+    },
+    "matchingGame": {
+        "title": "Gezegen Eşleştirme Oyunu",
+        "instructions": "Seviye {{level}} - Kartlara tıklayarak gezegen adlarını ve doğru özelliklerini eşleştir!",
+        "levelComplete": "Tebrikler! Seviye {{level}} tamamlandı! 🌟"
+    },
+    "constellation": {
+        "intro": {
+            "title": "Harika Gidiyorsun!",
+            "text": "Gezegenleri öğrendin! Şimdi sıra gökyüzünün en bilinen takımyıldızlarından birinde: Büyük Ayı! Bu takımyıldız, Kutup Yıldızı'nı bulmamıza yardım eden ünlü 'Kepçe'yi içerir. Yıldızlarını birleştirmeye hazır mısın?",
+            "imageAlt": "Büyük Ayı Takımyıldızı",
+            "button": "Bulmacaya Geç"
+        },
+        "puzzle": {
+            "title": "Büyük Ayı Takımyıldızı Bulmacası",
+            "instructions": "Yıldızları doğru yerlerine sürükleyerek takımyıldızı tamamla!",
+            "success": "Tebrikler! Büyük Ayı takımyıldızını tamamladın!",
+            "draggableStars": "Sürüklenecek Yıldızlar",
+            "allStarsPlaced": "Tüm yıldızlar yerleştirildi!",
+            "starInfo": "Yıldız Bilgisi",
+            "reset": "Bulmacayı Sıfırla"
+        }
+    },
+    "asteroidDodge": {
+        "title": "Asteroit Tarlası",
+        "instructions": "Ok tuşlarını kullanarak asteroitlerden kaç!",
+        "gameOver": "Oyun Bitti!",
+        "score": "Puan: {{score}}",
+        "playAgain": "Yeniden Oyna",
+        "mainMenu": "Ana Menüye Dön"
+    },
+    "endScreen": {
+        "title": "✨ TEBRİKLER KAHRAMAN! ✨",
+        "message": "Bütün oyunları tamamladın! Daha fazlası için güncellemeleri bekle.",
+        "button": "Yeniden Oyna"
+    },
+    "speaker": {
+        "mute": "Sesi Kapat",
+        "unmute": "Sesi Aç"
+    },
+    "planets": {
+        "sun": { "name": "Güneş", "feature": "Sıcak Yıldız", "info": "Güneş Sistemi'nin merkezindeki devasa yıldızdır. Dünyamızın yaşam kaynağıdır." },
+        "mercury": { "name": "Merkür", "feature": "En Hızlı Gezegen", "info": "Güneş'e en yakın gezegen. Çok hızlı döner ve yüzeyinde kraterler bulunur." },
+        "venus": { "name": "Venüs", "feature": "En Sıcak Gezegen", "info": "Atmosferi zehirlidir. Sera etkisi nedeniyle Güneş'e yakın olmasa da en sıcak gezegendir." },
+        "earth": { "name": "Dünya", "feature": "Mavi Gezegen", "info": "Üzerinde yaşam olduğu bilinen tek gezegendir. Yüzeyinin büyük kısmı su ile kaplıdır." },
+        "mars": { "name": "Mars", "feature": "Kızıl Gezegen", "info": "Yüzeyindeki demir oksit nedeniyle kırmızıdır. İnsanların gelecekte gitmeyi planladığı yer." },
+        "jupiter": { "name": "Jüpiter", "feature": "En Büyük Gezegen", "info": "Güneş Sistemi'nin devi. Üzerinde Büyük Kırmızı Leke denilen dev bir fırtına bulunur." },
+        "saturn": { "name": "Satürn", "feature": "Halkalı Gezegen", "info": "Buz ve kaya parçacıklarından oluşan muhteşem halkaları ile tanınır." },
+        "uranus": { "name": "Uranüs", "feature": "Yan Yatan Gezegen", "info": "Eğik bir eksende döner, bu yüzden neredeyse yan yatmış gibi görünür. Buz devi." },
+        "neptune": { "name": "Neptün", "feature": "Çok Rüzgarlı Gezegen", "info": "Güneş'ten en uzaktaki gezegen. Üzerindeki rüzgarlar saatte 2000 km hıza ulaşır." },
+        "pluto": { "name": "Plüton", "feature": "Cüce Gezegen", "info": "Eskiden 9. gezegen olarak bilinirdi. Artık Cüce Gezegenler sınıfındadır." },
+        "kepler": { "name": "Kepler-186f", "feature": "Ötegezegen", "info": "Dünya büyüklüğünde, kendi yıldızının yaşanabilir bölgesinde yer alan uzak bir gezegen." }
+    },
+    "stars": {
+        "alkaid": { "name": "Alkaid", "info": "Büyük Ayı'nın kepçesinin sapının en ucundaki yıldızdır." },
+        "mizar": { "name": "Mizar", "info": "Sapın ortasındaki yıldız. Yanında Alcor adında bir yoldaşı vardır, iyi gözler onu seçebilir." },
+        "alioth": { "name": "Alioth", "info": "Saptaki en parlak yıldızdır ve kepçeye en yakın olandır." },
+        "megrez": { "name": "Megrez", "info": "Sapın kepçeyle birleştiği yerdeki en sönük yıldızdır." },
+        "phecdha": { "name": "Phecda", "info": "Kepçenin alt kısmındaki yıldızlardan biridir." },
+        "dubhe": { "name": "Dubhe", "info": "Kepçenin üst kısmındaki 'işaretçi' yıldızdır. Kutup Yıldızı'nı bulmaya yardım eder." },
+        "merak": { "name": "Merak", "info": "Dubhe ile birlikte Kutup Yıldızı'nı gösteren diğer 'işaretçi' yıldızdır." }
+    }
+}
